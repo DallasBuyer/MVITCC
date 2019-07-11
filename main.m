@@ -100,5 +100,3 @@ results.kf_vec = kf_vec;
 results.best_init_X = best_init_X;
 
 save(strcat('MVITCC_results_',name),'results');
-
-
