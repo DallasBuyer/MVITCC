@@ -1,5 +1,5 @@
 function score = compute_nmi(true_labels, cluster_labels)
-
+% fixed the broken link
 %NMI Compute normalized mutual information (NMI) using the true and cluster
 %   labels and return the value in 'score'.
 %
