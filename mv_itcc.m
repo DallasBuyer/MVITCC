@@ -1,4 +1,5 @@
 function indicators = mv_itcc(multi_X,Y,kx,kf_vec,maxiter,w_vec,lamda,best_init_X)
+% Peng Xu, Jiangnan University. pengxujnu@163.com
 % multi-view information-theoretic co-clustering function
 
 % multi_X: 1*number_views,cell array of the data
