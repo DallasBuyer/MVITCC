@@ -4,7 +4,7 @@
 % Multi-view Information-theoretic Co-clustering for Co-occurrence Data.
 
 % 2018-11-13
-% Peng Xu, Jiangnan University. pengxujnu@163.com
+% Peng Xu, Jiangnan University. 6171610015@stu.jiangnan.edu.cn
 
 clc;
 clear;
